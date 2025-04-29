@@ -1,6 +1,6 @@
 import random
 from data import TextField, RawField, ImageField
-from data import uic, Emphasis5k, Emphasis800, DataLoader
+from data import Emphasis5k, DataLoader
 from models.transformer import TransformerDecoderLayer, ImageEnhanceTransformer
 from models.transformer.encoder_entry import build_encoder_MulitSwinTransformer
 import torch
