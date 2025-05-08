@@ -18,6 +18,13 @@ python train.py
 python test.py
 ```
 
+
+### Some visualization examples
+
+![示意图](fig/fig1.png)
+
+
+
 ### Acknowledgments
 
 This work builds upon the following repositories:
